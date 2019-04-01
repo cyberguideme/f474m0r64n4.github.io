@@ -1,0 +1,21 @@
+theme: minima
+title: CyberGuide
+author: Ensar Seker
+description: Security Researcher
+google_analytics: UA-114731872-1
+timezone: Europe/Istanbul
+twitter_username: none
+github_username: f474m0r64n4
+facebook_username: none
+instagram_username: none
+linkedin_username: ensarseker
+show_excerpts: false
+disqus:
+  shortname: https-f474m0r64n4-github-io
+plugins:
+  - jekyll-feed
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+include:
